@@ -4,8 +4,14 @@ Material for players who want to move from beginner to advanced by learning how 
 
 ## General
 
+<u>Stats explained</u> by segl, 12:04  
+https://youtu.be/Dcp1ooD_YqY
+
 <u>Spirits</u> by MachiavellianStrategist, 19:23  
-https://youtu.be/rt8TiV_02EU?si=Ld1eNe_vRwGsL_3V
+https://youtu.be/rt8TiV_02EU
+
+<u>Military Industrial Organizations (MIOs)</u> by MachiavellianStrategist, 12:54  
+https://youtu.be/UgfHh945X1U
 
 ### Occupying territory
 
@@ -39,6 +45,18 @@ https://youtu.be/qYmklEwTh6k
 <u>Commander abilities</u> by MachiavellianStrategist, 18:15  
 https://youtu.be/wx0wVoZPIvQ
 
+<u>Land doctrines</u> by MachiavellianStrategist, 20:09  
+*Updated for NCNS patch.*  
+https://youtu.be/mPAfs2KZM-
+
+#### Micro
+
+<u>How to micro</u> by SumZer0, 14:54  
+https://youtu.be/dGL_q7f97gc
+
+<u>Micro guide</u> by VijoPlays, 31:06  
+https://youtu.be/ghlCUHPTSiU
+
 ### Stats
 
 <u>Hardness</u> by Pydgin, 1:37  
@@ -51,11 +69,23 @@ https://youtu.be/ZV6OEms5Zjk
 <u>Flame tank</u> by MachiavellianStrategist, 6:24  
 https://youtu.be/sn_lx7Kn-Cs
 
+<u>Tank designs</u> by MachiavellianStrategist, 14:40  
+https://youtu.be/_Zg7qHF6_uI
+
 #### Division
+
+<u>Support companies</u> by MachiavellianStrategist, 19:52  
+https://youtu.be/CEf4a82FKjU
+
+<u>Division templates</u> by MachiavellianStrategist, 18:30  
+https://youtu.be/cghVakdYMj4
 
 ---
 
 ## Air Force
+
+<u>How to use Paratroopers</u> by Counterfactual Gaming, 28:51  
+https://youtu.be/JY3Zmyeakqs
 
 ### Designs
 
@@ -65,6 +95,10 @@ https://youtu.be/YYYcE6_7yzc
 ---
 
 ## Navy
+
+<u>Naval invasions</u> by Balkan Cowboy, 19:24  
+*Some parts of this video are outdated since NCNS patch.*  
+https://youtu.be/Qv_KYX67a1I
 
 ### Designs
 
