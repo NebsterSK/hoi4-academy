@@ -15,9 +15,14 @@ https://youtu.be/UgfHh945X1U
 - <u>Static anti-air</u> by Hygge Gaming, 13:00  
 https://youtu.be/8x-sa6ZIZdo
 
+
+- <u>Special projects</u> by MachiavellianStrategist, 18:40  
+https://youtu.be/OF9H4JBjIl8
+
 ### Economy
 
-TBD
+- <u>Concentrated vs. Dispersed industry</u> by VijoPlays, 7:18  
+https://youtu.be/enfuvUKHqcc
 
 ### Agency
 
@@ -53,6 +58,19 @@ https://youtu.be/liEqCqmr4mg
 - <u>Land doctrines</u> by MachiavellianStrategist, 20:09  
   *Updated for NCNS patch.*  
   https://youtu.be/mPAfs2KZM-
+
+
+- <u>Land doctrines</u> by VijoPlays, 23:38  
+  *Updated for NCNS patch.*  
+https://youtu.be/1aYsCljAyp4
+
+
+- <u>General traits</u> by MachiavellianStrategist, 19:32  
+https://youtu.be/u4kBidLw0Ts
+
+
+- <u>General traits</u> by VijoPlays, 24:45  
+https://youtu.be/wcEVSmoQ1_w
 
 
 - <u>Support attack</u> by Pydgin, 0:14  
@@ -98,7 +116,7 @@ https://youtu.be/yxUNDZQFeLc
 https://youtu.be/ZV6OEms5Zjk
 
 
-- <u>Coordination</u> by Hugge Gaming, 8:31  
+- <u>Coordination</u> by Hygge Gaming, 8:31  
 https://youtu.be/QhNqkYTali8
 
 
@@ -116,10 +134,18 @@ https://youtu.be/sn_lx7Kn-Cs
 - <u>Tank designs</u> by MachiavellianStrategist, 14:40  
 https://youtu.be/_Zg7qHF6_uI
 
+
+- <u>Tank designs</u> by VijoPlays, 10:20  
+https://youtu.be/wZO_KgbyhRw
+
 #### Division
 
 - <u>Support companies</u> by MachiavellianStrategist, 19:52  
 https://youtu.be/CEf4a82FKjU
+
+
+- <u>Support companies</u> by VijoPlays, 21:01  
+https://youtu.be/EeuSOrXiX6I
 
 
 - <u>Division templates</u> by MachiavellianStrategist, 18:30  
@@ -168,6 +194,10 @@ https://youtu.be/7DfTucp97Gk
 
 - <u>Plane designs</u> by MachiavellianStrategist, 11:33  
 https://youtu.be/YYYcE6_7yzc
+
+
+- <u>Plane designs</u> by VijoPlays, 7:53  
+https://youtu.be/7S-C6FfEhzs
 
 
 - <u>Close air support plane design</u> by Hygge Gaming, 17:08  
