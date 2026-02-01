@@ -57,7 +57,7 @@ https://youtu.be/liEqCqmr4mg
 
 - <u>Land doctrines</u> by MachiavellianStrategist, 20:09  
   *Updated for NCNS patch.*  
-  https://youtu.be/mPAfs2KZM-
+https://youtu.be/mPAfs2KZM-
 
 
 - <u>Land doctrines</u> by VijoPlays, 23:38  
@@ -166,7 +166,7 @@ https://youtu.be/JY3Zmyeakqs
 ### Plane types
 
 - <u>Naval bombers</u> by Hygge Gaming, 10:44  
-  https://youtu.be/jXTE4ldQmCs
+https://youtu.be/jXTE4ldQmCs
 
 ### Missions
 
@@ -176,7 +176,7 @@ https://youtu.be/8PTbvmcbc_8
 ### Stats
 
 - <u>Air superiority</u> by Hygge Gaming, 11:13  
-  https://youtu.be/LOSdj6JwStQ
+https://youtu.be/LOSdj6JwStQ
 
 
 - <u>Agility & speed</u> by Hygge Gaming, 14:03  
@@ -235,15 +235,15 @@ TBD
 
 ---
 
-## Creators
+## Thanks to all the creators
 
-- MachiavellianStrategist: https://www.youtube.com/c/MachiavellianStrategist
 - Hygge Gaming: https://www.youtube.com/c/HyggeGaming
+- MachiavellianStrategist: https://www.youtube.com/c/MachiavellianStrategist
+- VijoPlays: https://www.youtube.com/c/VijoPlays
 - Pydgin: https://www.youtube.com/c/Pydgin
 - SumZer0: https://www.youtube.com/c/SumZer0
 - Fisch Noices: https://www.youtube.com/c/FischNoices
-- HammoTimee: https://www.youtube.com/c/HammoTimee
-- VijoPlays: https://www.youtube.com/c/VijoPlays
 - segl: https://www.youtube.com/c/segl
+- HammoTimee: https://www.youtube.com/c/HammoTimee
 - Counterfactual Gaming: https://www.youtube.com/c/CounterfactualGaming
 - Balkan Cowboy: https://www.youtube.com/c/BalkanCowboy
