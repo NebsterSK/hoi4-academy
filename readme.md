@@ -8,8 +8,21 @@ Material for players who want to move from beginner to advanced by learning how 
 https://youtu.be/rt8TiV_02EU  
 
 
-- <u>Military Industrial Organizations (MIOs)</u> by MachiavellianStrategist, 12:54  
+- <u>Military industrial organizations</u> by MachiavellianStrategist, 12:54  
 https://youtu.be/UgfHh945X1U
+
+
+- <u>Static anti-air</u> by Hygge Gaming, 13:00  
+https://youtu.be/8x-sa6ZIZdo
+
+### Economy
+
+TBD
+
+### Agency
+
+- <u>Army intel</u> by Hygge Gaming, 8:52  
+https://youtu.be/HaHiy-U5sWQ
 
 ### Occupying territory
 
@@ -37,14 +50,17 @@ https://youtu.be/liEqCqmr4mg
 
 ## Army
 
-### Mechanics
+- <u>Land doctrines</u> by MachiavellianStrategist, 20:09  
+  *Updated for NCNS patch.*  
+  https://youtu.be/mPAfs2KZM-
+
 
 - <u>Support attack</u> by Pydgin, 0:14  
 https://youtu.be/3bGU59EiOfE
 
 
 - <u>Why line artillery is overrated</u> by SumZer0, 16:24  
-*This doesn't apply when using Fire concentration doctrine after NCNS patch.*  
+*This doesn't apply when using Fire concentration doctrine introduced in NCNS patch.*  
 https://youtu.be/qYmklEwTh6k
 
 
@@ -52,9 +68,8 @@ https://youtu.be/qYmklEwTh6k
 https://youtu.be/wx0wVoZPIvQ
 
 
-- <u>Land doctrines</u> by MachiavellianStrategist, 20:09  
-*Updated for NCNS patch.*  
-https://youtu.be/mPAfs2KZM-
+- <u>Attack modifiers</u> by Hygge Gaming, 18:10  
+https://youtu.be/75QNYsRM0lM
 
 #### Micro
 
@@ -65,10 +80,18 @@ https://youtu.be/dGL_q7f97gc
 - <u>Micro guide</u> by VijoPlays, 31:06  
 https://youtu.be/ghlCUHPTSiU
 
+
+- <u>Attacking forts</u> by Hygge Gaming, 7:58  
+https://youtu.be/_V7MKuJM8v0
+
 ### Stats
 
 - <u>Stats explained</u> by segl, 12:04  
-  https://youtu.be/Dcp1ooD_YqY
+https://youtu.be/Dcp1ooD_YqY
+
+
+- <u>Combat width</u> by MachiavellianStrategist, 13:37  
+https://youtu.be/yxUNDZQFeLc
 
 
 - <u>Hardness</u> by Pydgin, 1:37  
@@ -106,10 +129,29 @@ https://youtu.be/cghVakdYMj4
 
 ## Air force
 
+- <u>Air doctrines</u> by MachiavellianStrategist, 12:43  
+*Updated for NCNS patch.*  
+https://youtu.be/tgn8y4T_nWs
+
+
 - <u>How to use Paratroopers</u> by Counterfactual Gaming, 28:51  
 https://youtu.be/JY3Zmyeakqs
 
+### Plane types
+
+- <u>Naval bombers</u> by Hygge Gaming, 10:44  
+  https://youtu.be/jXTE4ldQmCs
+
+### Missions
+
+- <u>Close air support</u> by Hygge Gaming, 10:36  
+https://youtu.be/8PTbvmcbc_8
+
 ### Stats
+
+- <u>Air superiority</u> by Hygge Gaming, 11:13  
+  https://youtu.be/LOSdj6JwStQ
+
 
 - <u>Agility & speed</u> by Hygge Gaming, 14:03  
 https://youtu.be/yRVlxrgTm68
@@ -118,22 +160,60 @@ https://youtu.be/yRVlxrgTm68
 - <u>Air detection</u> by Hygge Gaming, 14:40  
 https://youtu.be/PXVn3Eic3tc
 
+
+- <u>Ground support</u> by Hygge Gaming, 10:31  
+https://youtu.be/7DfTucp97Gk
+
 ### Designs
 
 - <u>Plane designs</u> by MachiavellianStrategist, 11:33  
 https://youtu.be/YYYcE6_7yzc
 
+
+- <u>Close air support plane design</u> by Hygge Gaming, 17:08  
+https://youtu.be/DDUYZhCm1oM
+
 ---
 
 ## Navy
+
+- <u>Naval doctrines</u> by MachiavellianStrategist, 17:55  
+*Updated for NCNS patch.*  
+https://youtu.be/gpTRiKbsjH8
+
 
 - <u>Naval invasions</u> by Balkan Cowboy, 19:24  
 *Some parts of this video are outdated since NCNS patch.*  
 https://youtu.be/Qv_KYX67a1I
 
+
+- <u>Floating harbors</u> by Hygge Gaming, 4:15  
+https://youtu.be/px1XFVFpTzg
+
+
+- <u>Submarines</u> by Hygge Gaming, 9:20  
+https://youtu.be/K8PkcKH2aZM
+
+### Stats
+
+- <u>Positioning</u> by Hygge Gaming, 13:22  
+https://youtu.be/gUeXEcGal4I
+
 ### Designs
+
+TBD
 
 ---
 
-# TODO
-32 entrenchment
+## Creators
+
+- MachiavellianStrategist: https://www.youtube.com/c/MachiavellianStrategist
+- Hygge Gaming: https://www.youtube.com/c/HyggeGaming
+- Pydgin: https://www.youtube.com/c/Pydgin
+- SumZer0: https://www.youtube.com/c/SumZer0
+- Fisch Noices: https://www.youtube.com/c/FischNoices
+- HammoTimee: https://www.youtube.com/c/HammoTimee
+- VijoPlays: https://www.youtube.com/c/VijoPlays
+- segl: https://www.youtube.com/c/segl
+- Counterfactual Gaming: https://www.youtube.com/c/CounterfactualGaming
+- Balkan Cowboy: https://www.youtube.com/c/BalkanCowboy
