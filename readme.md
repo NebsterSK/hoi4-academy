@@ -4,6 +4,10 @@ Material for players who want to move from beginner to advanced by learning how 
 
 ## General
 
+- <u>Factions</u> by VijoPlays, 9:16  
+https://youtu.be/MPdmbAs-6lA
+
+
 - <u>Spirits</u> by MachiavellianStrategist, 19:23  
 https://youtu.be/rt8TiV_02EU  
 
@@ -19,10 +23,26 @@ https://youtu.be/8x-sa6ZIZdo
 - <u>Special projects</u> by MachiavellianStrategist, 18:40  
 https://youtu.be/OF9H4JBjIl8
 
+
+- <u>Volunteers</u> by Pydgin, 1:25  
+https://youtu.be/QYo2qTmsNdY
+
 ### Economy
+
+- <u>Trade laws</u> by Pydgin, 1:47  
+https://youtu.be/SdqF2r4DyeY
+
+
+- <u>Consumer goods</u> by Pydgin, 1:27  
+https://youtu.be/T9MECnYn8XI
+
 
 - <u>Concentrated vs. Dispersed industry</u> by VijoPlays, 7:18  
 https://youtu.be/enfuvUKHqcc
+
+
+- <u>Fuel</u> by Pydgin, 2:11  
+https://youtu.be/vjbpUwTeQtA
 
 ### Agency
 
@@ -89,7 +109,7 @@ https://youtu.be/wx0wVoZPIvQ
 - <u>Attack modifiers</u> by Hygge Gaming, 18:10  
 https://youtu.be/75QNYsRM0lM
 
-#### Micro
+### Micro
 
 - <u>How to micro</u> by SumZer0, 14:54  
 https://youtu.be/dGL_q7f97gc
@@ -116,12 +136,44 @@ https://youtu.be/yxUNDZQFeLc
 https://youtu.be/ZV6OEms5Zjk
 
 
+- <u>Recovery rate</u> by Pydgin, 0:23  
+https://youtu.be/B-VjqPHjTlQ
+
+
+- <u>Reinforce rate & Initiative</u> by Pydgin, 1:30  
+https://youtu.be/T9MECnYn8XI
+
+
 - <u>Coordination</u> by Hygge Gaming, 8:31  
 https://youtu.be/QhNqkYTali8
 
 
+- <u>Coordination</u> by Pydgin, 1:43  
+https://youtu.be/78yz7QGtqA4
+
+
 - <u>Entrenchment</u> by Hygge Gaming, 16:06  
 https://youtu.be/xNqUItPjDC0
+
+
+- <u>Entrenchment</u> by Pydgin, 1:16  
+https://youtu.be/wKllsXKq_1c
+
+
+- <u>Armor & Piercing</u> by Pydgin, 3:00  
+https://youtu.be/RGdlm0jvxdA
+
+
+- <u>Trickleback & Experience loss</u> by Pydgin, 0:31  
+https://youtu.be/2HBXN8JF8eU
+
+
+- <u>Suppression</u> by Pydgin, 0:52  
+https://youtu.be/MZi8Jpp4DQY
+
+  
+- <u>Planning</u> by Pydgin, 1:40  
+https://youtu.be/nS0L46efpww
 
 ### Designs
 
@@ -158,6 +210,11 @@ https://youtu.be/cghVakdYMj4
 - <u>Air doctrines</u> by MachiavellianStrategist, 12:43  
 *Updated for NCNS patch.*  
 https://youtu.be/tgn8y4T_nWs
+
+
+- <u>Air doctrines</u> by VijoPlays, 12:48  
+*Updated for NCNS patch.*  
+https://youtu.be/4w2kv0UOGMs
 
 
 - <u>How to use Paratroopers</u> by Counterfactual Gaming, 28:51  
@@ -241,9 +298,9 @@ TBD
 - MachiavellianStrategist: https://www.youtube.com/c/MachiavellianStrategist
 - VijoPlays: https://www.youtube.com/c/VijoPlays
 - Pydgin: https://www.youtube.com/c/Pydgin
-- SumZer0: https://www.youtube.com/c/SumZer0
-- Fisch Noices: https://www.youtube.com/c/FischNoices
-- segl: https://www.youtube.com/c/segl
-- HammoTimee: https://www.youtube.com/c/HammoTimee
-- Counterfactual Gaming: https://www.youtube.com/c/CounterfactualGaming
-- Balkan Cowboy: https://www.youtube.com/c/BalkanCowboy
+- *SumZer0: https://www.youtube.com/c/SumZer0
+- *Fisch Noices: https://www.youtube.com/c/FischNoices
+- *segl: https://www.youtube.com/c/segl
+- *HammoTimee: https://www.youtube.com/c/HammoTimee
+- *Counterfactual Gaming: https://www.youtube.com/c/CounterfactualGaming
+- *Balkan Cowboy: https://www.youtube.com/c/BalkanCowboy
