@@ -13,7 +13,11 @@ https://youtu.be/rt8TiV_02EU
 
 
 - <u>Military industrial organizations</u> by MachiavellianStrategist, 12:54  
-https://youtu.be/UgfHh945X1U
+https://youtu.be/
+
+
+- <u>Military industrial organizations</u> by Fisch Noices, 1:50  
+https://youtu.be/ReSFQcYEEAA
 
 
 - <u>Static anti-air</u> by Hygge Gaming, 13:00  
@@ -111,6 +115,10 @@ https://youtu.be/75QNYsRM0lM
 
 ### Micro
 
+- <u>Battle plans</u> by Fisch Noices, 5:00  
+https://youtu.be/sVss1eOZwpw
+
+
 - <u>How to micro</u> by SumZer0, 14:54  
 https://youtu.be/dGL_q7f97gc
 
@@ -166,6 +174,10 @@ https://youtu.be/wKllsXKq_1c
 
 - <u>Armor & Piercing</u> by Pydgin, 3:00  
 https://youtu.be/RGdlm0jvxdA
+
+
+- <u>Armor & Piercing</u> by Fisch Noices, 0:48  
+https://youtu.be/6mlskD9-hTw
 
 
 - <u>Trickleback & Experience loss</u> by Pydgin, 0:31  
@@ -228,6 +240,10 @@ https://youtu.be/4w2kv0UOGMs
 - <u>How to use Paratroopers</u> by Counterfactual Gaming, 28:51  
 https://youtu.be/JY3Zmyeakqs
 
+
+- <u>How to use Paratroopers</u> by Fisch Noices, 1:57  
+https://youtu.be/AdfEQHYwpB0
+
 ### Plane types
 
 - <u>Naval bombers</u> by Hygge Gaming, 10:44  
@@ -261,6 +277,10 @@ https://youtu.be/7DfTucp97Gk
 https://youtu.be/YYYcE6_7yzc
 
 
+- <u>Plane designs</u> by Fisch Noices, 6:35  
+https://youtu.be/1YIThfMcqx4
+
+
 - <u>Plane designs</u> by VijoPlays, 7:53  
 https://youtu.be/7S-C6FfEhzs
 
@@ -291,12 +311,17 @@ https://youtu.be/K8PkcKH2aZM
 
 ### Stats
 
+- <u>Stats explained</u> by Fisch Noices, 2:59  
+https://youtu.be/OpbWfznffjk
+
+
 - <u>Positioning</u> by Hygge Gaming, 13:22  
 https://youtu.be/gUeXEcGal4I
 
 ### Designs
 
-TBD
+- <u>Ship designs</u> by Fisch Noices, 7:21  
+https://youtu.be/mu4JzYKpzf4
 
 ---
 
@@ -307,7 +332,7 @@ TBD
 - VijoPlays: https://www.youtube.com/c/VijoPlays
 - Pydgin: https://www.youtube.com/c/Pydgin
 - SumZer0: https://www.youtube.com/c/SumZer0
-- *Fisch Noices: https://www.youtube.com/c/FischNoices
+- Fisch Noices: https://www.youtube.com/c/FischNoices
 - *segl: https://www.youtube.com/c/segl
 - *HammoTimee: https://www.youtube.com/c/HammoTimee
 - *Counterfactual Gaming: https://www.youtube.com/c/CounterfactualGaming
