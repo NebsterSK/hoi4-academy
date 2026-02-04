@@ -152,6 +152,10 @@ https://youtu.be/QhNqkYTali8
 https://youtu.be/78yz7QGtqA4
 
 
+- <u>Coordination, reinforce meme, critting</u> by SumZer0, 12:53  
+https://youtu.be/dwxT8DMlRiU
+
+
 - <u>Entrenchment</u> by Hygge Gaming, 16:06  
 https://youtu.be/xNqUItPjDC0
 
@@ -198,6 +202,10 @@ https://youtu.be/CEf4a82FKjU
 
 - <u>Support companies</u> by VijoPlays, 21:01  
 https://youtu.be/EeuSOrXiX6I
+
+
+- <u>Support companies</u> by SumZer0, 24:49  
+https://youtu.be/KNu1w5UMMxE
 
 
 - <u>Division templates</u> by MachiavellianStrategist, 18:30  
@@ -298,7 +306,7 @@ TBD
 - MachiavellianStrategist: https://www.youtube.com/c/MachiavellianStrategist
 - VijoPlays: https://www.youtube.com/c/VijoPlays
 - Pydgin: https://www.youtube.com/c/Pydgin
-- *SumZer0: https://www.youtube.com/c/SumZer0
+- SumZer0: https://www.youtube.com/c/SumZer0
 - *Fisch Noices: https://www.youtube.com/c/FischNoices
 - *segl: https://www.youtube.com/c/segl
 - *HammoTimee: https://www.youtube.com/c/HammoTimee
