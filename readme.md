@@ -13,7 +13,7 @@ https://youtu.be/rt8TiV_02EU
 
 
 - **Military industrial organizations** by MachiavellianStrategist, 12:54  
-https://youtu.be/
+TBD
 
 
 - **Military industrial organizations** by Fisch Noices, 1:50  
@@ -31,7 +31,21 @@ https://youtu.be/OF9H4JBjIl8
 - **Volunteers** by Pydgin, 1:25  
 https://youtu.be/QYo2qTmsNdY
 
+
+- **Land, Air & Navy designs** by MachiavellianStrategist, 33:23  
+https://youtu.be/R_dXGnCGHFs
+
+
+### Research
+
+- **Research** by HammoTimee, 10:59  
+https://youtu.be/tWZiHnxSwAs
+
 ### Economy
+
+- **Production & Trade** by HammoTimee, 15:44  
+https://youtu.be/Gep3hqvIpe8
+
 
 - **Trade laws** by Pydgin, 1:47  
 https://youtu.be/SdqF2r4DyeY
@@ -79,9 +93,17 @@ https://youtu.be/mT3AF4bYRHQ
 - **How supply works** by HammoTimee, 11:53  
 https://youtu.be/liEqCqmr4mg
 
+
+- **Supply** by Counterfactual Gaming, 2022  
+https://youtu.be/5R2JOKgnZrw
+
 ---
 
 ## Army
+
+- **Army explained** by HammoTimee, 29:46  
+https://youtu.be/a7xz8RaOotw
+
 
 - **Land doctrines** by MachiavellianStrategist, 20:09  
   *Updated for NCNS patch.*  
@@ -105,13 +127,22 @@ https://youtu.be/u4kBidLw0Ts
 https://youtu.be/wcEVSmoQ1_w
 
 
+- **General traits** by HammoTimee, 10:57  
+https://youtu.be/uM_SIAXwld8
+
+
 - **Support attack** by Pydgin, 0:14  
 https://youtu.be/3bGU59EiOfE
 
 
 - **Why line artillery is overrated** by SumZer0, 16:24  
-*This doesn't apply when using Fire concentration doctrine introduced in NCNS patch.*  
+*Some parts of video doesn't apply when using Fire concentration doctrine introduced in NCNS patch.*  
 https://youtu.be/qYmklEwTh6k
+
+
+- **Line artillery** by Counterfactual Gaming, 26:26  
+*Some parts of video doesn't apply when using Fire concentration doctrine introduced in NCNS patch.*  
+https://youtu.be/Ns7gwL7JXVA
 
 
 - **Commander abilities** by MachiavellianStrategist, 18:15  
@@ -127,12 +158,16 @@ https://youtu.be/75QNYsRM0lM
 https://youtu.be/sVss1eOZwpw
 
 
-- **How to micro** by SumZer0, 14:54  
+- **Micro guide** by SumZer0, 14:54  
 https://youtu.be/dGL_q7f97gc
 
 
 - **Micro guide** by VijoPlays, 31:06  
 https://youtu.be/ghlCUHPTSiU
+
+
+- **Micro guide** by HammoTimee, 18:16  
+https://youtu.be/vbDWiSQU3c4
 
 
 - **Attacking forts** by Hygge Gaming, 7:58  
@@ -214,6 +249,18 @@ https://youtu.be/_Zg7qHF6_uI
 - **Tank designs** by VijoPlays, 10:20  
 https://youtu.be/wZO_KgbyhRw
 
+
+- **Tank designs** by HammoTimee, 12:18  
+https://youtu.be/smRUxjgZPuo
+
+
+- **Cheap vs. expensive tanks** by Counterfactual Gaming, 39:43  
+https://youtu.be/p9UG-YNcOAU
+
+
+- **Fuel drums** by Counterfactual Gaming, 39:21  
+https://youtu.be/4ZTHVLMY0ps
+
 #### Division
 
 - **Support companies** by MachiavellianStrategist, 19:52  
@@ -238,6 +285,10 @@ https://youtu.be/cghVakdYMj4
 ---
 
 ## Air force
+
+- **Air force explained** by HammoTimee, 13:39  
+https://youtu.be/a0pV_f-J5Qk
+
 
 - **Air guide** by segl, 9:57  
 https://youtu.be/OG1YL-WM_ps
@@ -264,6 +315,10 @@ https://youtu.be/AdfEQHYwpB0
 
 - **Naval bombers** by Hygge Gaming, 10:44  
 https://youtu.be/jXTE4ldQmCs
+
+
+- **Naval bombers** by Counterfactual Gaming, 35:19  
+https://youtu.be/QLIe5J4qVIk
 
 ### Missions
 
@@ -304,6 +359,18 @@ https://youtu.be/7S-C6FfEhzs
 - **Close air support plane design** by Hygge Gaming, 17:08  
 https://youtu.be/DDUYZhCm1oM
 
+
+- **Fighter designs** by Counterfactual Gaming, 33:46  
+https://youtu.be/3Ih7ixZ98Xo
+
+
+- **TAC vs. CAS** by Counterfactual Gaming, 34:31  
+https://youtu.be/ZfcJc-swzhA
+
+  
+- **Self-sealing fuel tanks** by Counterfactual Gaming, 18:50  
+https://youtu.be/p9UG-YNcOAU
+
 ---
 
 ## Navy
@@ -341,6 +408,10 @@ https://youtu.be/gUeXEcGal4I
 
 ### Designs
 
+- **Naval designer** by HammoTimee, 23:46  
+https://youtu.be/2GLVkfbHFoU
+
+
 - **Ship designs** by Fisch Noices, 7:21  
 https://youtu.be/mu4JzYKpzf4
 
@@ -348,13 +419,15 @@ https://youtu.be/mu4JzYKpzf4
 
 ## Thanks to all the creators
 
-- Hygge Gaming: https://www.youtube.com/c/HyggeGaming
-- MachiavellianStrategist: https://www.youtube.com/c/MachiavellianStrategist
+- Hygge Gaming: 
+- MachiavellianStrategist: 
 - VijoPlays: https://www.youtube.com/c/VijoPlays
 - Pydgin: https://www.youtube.com/c/Pydgin
-- SumZer0: https://www.youtube.com/c/SumZer0
-- Fisch Noices: https://www.youtube.com/c/FischNoices
-- segl: https://www.youtube.com/c/segl
-- *HammoTimee: https://www.youtube.com/c/HammoTimee
-- *Counterfactual Gaming: https://www.youtube.com/c/CounterfactualGaming
-- *Balkan Cowboy: https://www.youtube.com/c/BalkanCowboy
+- SumZer0: 
+- Fisch Noices: 
+- segl: 
+- HammoTimee: 
+- Counterfactual Gaming: 
+- *Balkan Cowboy: 
+- *Taureor: https://www.youtube.com/c/Taureor
+- *Dijon Dillan https://youtube.com/@dijondillan
