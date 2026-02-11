@@ -356,16 +356,20 @@ https://youtu.be/1YIThfMcqx4
 https://youtu.be/7S-C6FfEhzs
 
 
-- **Close air support plane design** by Hygge Gaming, 17:08  
-https://youtu.be/DDUYZhCm1oM
-
-
 - **Fighter designs** by Counterfactual Gaming, 33:46  
-https://youtu.be/3Ih7ixZ98Xo
+  https://youtu.be/3Ih7ixZ98Xo
+
+
+- **CAS designs** by Hygge Gaming, 17:08  
+https://youtu.be/DDUYZhCm1oM
 
 
 - **TAC vs. CAS** by Counterfactual Gaming, 34:31  
 https://youtu.be/ZfcJc-swzhA
+
+
+- **CAS designs** by Balkan Cowboy, 13:07  
+https://youtu.be/4UXkyGjhNow
 
   
 - **Self-sealing fuel tanks** by Counterfactual Gaming, 18:50  
@@ -419,15 +423,13 @@ https://youtu.be/mu4JzYKpzf4
 
 ## Thanks to all the creators
 
-- Hygge Gaming: 
-- MachiavellianStrategist: 
+- Hygge Gaming: https://youtube.com/@hyggegaming
+- MachiavellianStrategist: https://youtube.com/@machiavellianstrategist
 - VijoPlays: https://www.youtube.com/c/VijoPlays
 - Pydgin: https://www.youtube.com/c/Pydgin
-- SumZer0: 
-- Fisch Noices: 
-- segl: 
-- HammoTimee: 
-- Counterfactual Gaming: 
-- *Balkan Cowboy: 
-- *Taureor: https://www.youtube.com/c/Taureor
-- *Dijon Dillan https://youtube.com/@dijondillan
+- SumZer0: https://youtube.com/@sumzer_0
+- Fisch Noices: https://youtube.com/@fischnoices130
+- segl: https://youtube.com/@segl99
+- HammoTimee: https://youtube.com/@hammotimee
+- Counterfactual Gaming: https://youtube.com/@counterfactualgaming
+- Balkan Cowboy: https://youtube.com/@balkan-cowboy
