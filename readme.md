@@ -13,7 +13,7 @@ https://youtu.be/rt8TiV_02EU
 
 
 - **Military industrial organizations** by MachiavellianStrategist, 12:54  
-TBD
+https://youtu.be/UgfHh945X1U
 
 
 - **Military industrial organizations** by Fisch Noices, 1:50  
@@ -106,12 +106,12 @@ https://youtu.be/a7xz8RaOotw
 
 
 - **Land doctrines** by MachiavellianStrategist, 20:09  
-  *Updated for NCNS patch.*  
+*Updated for NCNS patch.*  
 https://youtu.be/mPAfs2KZM-
 
 
 - **Land doctrines** by VijoPlays, 23:38  
-  *Updated for NCNS patch.*  
+*Updated for NCNS patch.*  
 https://youtu.be/1aYsCljAyp4
 
 
@@ -192,7 +192,7 @@ https://youtu.be/B-VjqPHjTlQ
 
 
 - **Reinforce rate & Initiative** by Pydgin, 1:30  
-https://youtu.be/T9MECnYn8XI
+https://youtu.be/6GXcI_F03ps
 
 
 - **Coordination** by Hygge Gaming, 8:31  
@@ -357,7 +357,7 @@ https://youtu.be/7S-C6FfEhzs
 
 
 - **Fighter designs** by Counterfactual Gaming, 33:46  
-  https://youtu.be/3Ih7ixZ98Xo
+https://youtu.be/3Ih7ixZ98Xo
 
 
 - **CAS designs** by Hygge Gaming, 17:08  
@@ -373,7 +373,7 @@ https://youtu.be/4UXkyGjhNow
 
   
 - **Self-sealing fuel tanks** by Counterfactual Gaming, 18:50  
-https://youtu.be/p9UG-YNcOAU
+https://youtu.be/wXjffEqkrMs
 
 ---
 
@@ -424,12 +424,12 @@ https://youtu.be/mu4JzYKpzf4
 ## Thanks to all the creators
 
 - Hygge Gaming: https://youtube.com/@hyggegaming
+- Pydgin: https://www.youtube.com/c/Pydgin
 - MachiavellianStrategist: https://youtube.com/@machiavellianstrategist
 - VijoPlays: https://www.youtube.com/c/VijoPlays
-- Pydgin: https://www.youtube.com/c/Pydgin
-- SumZer0: https://youtube.com/@sumzer_0
-- Fisch Noices: https://youtube.com/@fischnoices130
-- segl: https://youtube.com/@segl99
 - HammoTimee: https://youtube.com/@hammotimee
 - Counterfactual Gaming: https://youtube.com/@counterfactualgaming
+- Fisch Noices: https://youtube.com/@fischnoices130
+- segl: https://youtube.com/@segl99
+- SumZer0: https://youtube.com/@sumzer_0
 - Balkan Cowboy: https://youtube.com/@balkan-cowboy
